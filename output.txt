@@ -1,4 +1,4 @@
-/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=61456:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/ll/Cyclone'd/out/production/Cyclone'd Main
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=61773:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/ll/Cyclone'd/out/production/Cyclone'd Main
 The distance between two measuring locations is 16019.716744826652 km
 The distance between two measuring locations is 16353.547804666176 km
 The distance between two measuring locations is 16679.238206366485 km
@@ -11,5 +11,7 @@ The distance between two measuring locations is 15578.446599858415 km
 The distance between two measuring locations is 14917.153556566518 km
 The distance between two measuring locations is 14588.73083627739 km
 The distance between two measuring locations is 14263.268750222916 km
+
+Total distance is 190730.15 km
 
 Process finished with exit code 0
