@@ -1,17 +1,17 @@
-/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=61773:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/ll/Cyclone'd/out/production/Cyclone'd Main
-The distance between two measuring locations is 16019.716744826652 km
-The distance between two measuring locations is 16353.547804666176 km
-The distance between two measuring locations is 16679.238206366485 km
-The distance between two measuring locations is 16734.579373252345 km
-The distance between two measuring locations is 16788.780027155735 km
-The distance between two measuring locations is 16526.437010669906 km
-The distance between two measuring locations is 16250.70430612486 km
-The distance between two measuring locations is 16029.544147581815 km
-The distance between two measuring locations is 15578.446599858415 km
-The distance between two measuring locations is 14917.153556566518 km
-The distance between two measuring locations is 14588.73083627739 km
-The distance between two measuring locations is 14263.268750222916 km
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=51494:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/ll/Cyclone'd/out/production/Cyclone'd Main
+The distance between two measuring locations is 554.3996803543225 km
+The distance between two measuring locations is 468.49700815412336 km
+The distance between two measuring locations is 331.645971634858 km
+The distance between two measuring locations is 845.7861488546149 km
+The distance between two measuring locations is 1170.4131281488242 km
+The distance between two measuring locations is 1054.4379707737055 km
+The distance between two measuring locations is 940.6709507348903 km
+The distance between two measuring locations is 598.9286227146907 km
+The distance between two measuring locations is 530.2975666412293 km
+The distance between two measuring locations is 241.14693884556328 km
+The distance between two measuring locations is 222.38985328911707 km
+The distance between two measuring locations is 333.5847799336759 km
 
-Total distance is 190730.15 km
+Total distance is 7292.20 km
 
 Process finished with exit code 0
