@@ -19,7 +19,7 @@ public class Main {
 
     }
     public static double distance(double x1, double y1, double x2, double y2){
-        double a = Math.sin(( x2 - x1 ) / 2) * Math.sin(( x2 - x1 ) / 2) + Math.cos(x1) - Math.cos(x2) * Math.sin(( y2 - y1 ) / 2) * Math.sin(( y2 - y1 ) / 2);
+        double a = Math.sin(( x2 - x1 ) / 2) * Math.sin(( x2 - x1 ) / 2) + Math.cos(x1) * Math.cos(x2) * Math.sin(( y2 - y1 ) / 2) * Math.sin(( y2 - y1 ) / 2);
         double c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
         double d = 6371 * c;
         System.out.println("The distance between two measuring locations is " +d+ " km");
